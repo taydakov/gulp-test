@@ -1,0 +1,11 @@
+{
+	"name": "gulp-markdown-test",
+	"version": "1.0.0",
+	"description": "Playground for learning Gulp Markdown",
+
+	"dependencies": {
+		"gulp": "*",
+		"gulp-load-plugins": "*",
+		"gulp-markdown": "*"
+	}
+}

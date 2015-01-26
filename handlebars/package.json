@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "version": "",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-compile-handlebars": "*",
+    "gulp-handlebars": "*",
+    "gulp-load-plugins": "*",
+    "gulp-rename": "*"
+  }
+}
